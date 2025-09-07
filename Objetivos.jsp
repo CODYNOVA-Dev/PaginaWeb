@@ -10,7 +10,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Objetivos - Codynova</title>
+    <title>Misión y Visión - Codynova</title>
     <style>
         * {
             margin: 0;
@@ -71,7 +71,6 @@
             font-size: 20px;
             font-weight: bold;
             letter-spacing: 1px;
-            text-align: center;
         }
         
         .container {
@@ -92,6 +91,12 @@
             padding-bottom: 10px;
             border-bottom: 2px solid #e0e0e0;
             text-align: center;
+        }
+        
+        h3 {
+            font-size: 20px;
+            color: #0066cc;
+            margin: 25px 0 15px;
         }
         
         p {
@@ -203,7 +208,7 @@
 <body>
     <div class="header">
         <div class="header-content">
-            <img src="logo2.jpg" alt="Logo Codynova" class="logo">
+            <img src="logo2.png" alt="Logo Codynova" class="logo">
             <div class="header-text">
                 <h1>CODYNOVA</h1>
                 <p class="tagline">DONDE LA INNOVACIÓN SE PROGRAMA</p>
@@ -212,19 +217,14 @@
     </div>
     
     <div class="container">
-        <h2>OBJETIVOS</h2>
+        <h2>MISIÓN Y VISIÓN</h2>
         
         <section>
-            <p>Nuestra empresa busca ofrecer soluciones tecnológicas
-               integrales que impulsen la eficiencia, competitividad y
-               crecimiento de los negocios. Nos enfocamos en entender las
-               necesidades de cada cliente para desarrollar software a la
-               medida, optimizando sus procesos y apoyando sus objetivos
-               estratégicos.</p>
+            <h3>Misión</h3>
+            <p>Desarrollar software innovador y personalizado que resuelva las necesidades de las empresas, optimizando sus procesos y convirtiendo la tecnología en un aliado estratégico para su crecimiento.</p>
             
-            <p>También nos comprometemos a adaptarnos a los cambios del mercado, 
-               integrando herramientas innovadoras y escalables que permitan a 
-               nuestros clientes mantenerse a la vanguardia, resolver retos actuales y aprovechar nuevas oportunidades.</p>
+            <h3>Visión</h3>
+            <p>Ser una empresa innovadora en el desarrollo de soluciones digitales a nivel nacional e internacional, reconocida por su innovación, calidad y capacidad de transformar los retos de las organizaciones en oportunidades de éxito.</p>
         </section>
         
         
@@ -237,15 +237,15 @@
     <div class="footer">
         <strong>CONTACTO</strong>
         <div class="contact-info">
-            DIRECCIÓN  Mar Mediterráneo 227, 11420 Ciudad de México, Ciudad de México<br>
+            DIRECCIÓN: Mar Mediterráneo 227, 11420 Ciudad de México, Ciudad de México<br>
             TELEFONO: 55 4899 7632<br>
-            EMAIL: Codynovcs.AdeC.V@gmail.com
+            EMAIL: CodynovaS.AdeC.V@gmail.com
         </div>
     </div>
     
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            console.log('Página de Objetivos cargada correctamente');
+            console.log('Página de Misión y Visión cargada correctamente');
         });
     </script>
 </body>
