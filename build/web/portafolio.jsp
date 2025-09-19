@@ -39,8 +39,8 @@
         }
         
         .logo {
-            width: 80px;
-            height: 80px;
+            width: 150px;
+            height: 150px;
             margin-right: 20px;
             border-radius: 5px;
             object-fit: contain;
@@ -258,7 +258,7 @@
 <body>
     <div class="header">
         <div class="header-content">
-            <img src="logo2.jpg" alt="Logo Codynova" class="logo">
+            <img src="logo2.png" alt="Logo Codynova" class="logo">
             <div class="header-text">
                 <h1>CODYNOVA</h1>
                 <p class="tagline">DONDE LA INNOVACIÓN SE PROGRAMA</p>
@@ -290,7 +290,7 @@
                     Tenga una interfaz intuitiva y atractiva.
                     El sistema optimiza recursos, automatiza procesos, ofrece una experiencia moderna 
                     e interactiva para los usuarios y agiliza la atención al cliente, favoreciendo 
-                    el crecimiento de Vallure Travel en un mercado competitivo.</p> //nota: cambiar a lists de html mañana en la mañana
+                    el crecimiento de Vallure Travel en un mercado competitivo.</p> 
                 <p>El sistema optimiza recursos, automatiza procesos, ofrece una 
                    experiencia moderna e interactiva para los usuarios y agiliza 
                    la atención al cliente, favoreciendo el crecimiento de Vallure 
@@ -343,7 +343,7 @@
                     <br>- Posee un editor de HTML para desarrollo web.
                     <br>- Ofrece actividades interactivas como juegos de completar código y ejercicios prácticos, haciendo el aprendizaje interesante y efectivo.</p>
                     <p>La aplicación facilita el aprendizaje de principiantes y ayuda a reforzar conocimientos en usuarios con experiencia previa.</p>
-                    //aqui tambien cambiar a listas de html
+                    
                 
                 </div>
             </div>
@@ -360,7 +360,7 @@
         <strong>CONTACTO</strong>
         <div class="contact-info">
             DIRECCIÓN Mar Mediterráneo 227, 11420 Ciudad de México, Ciudad de México<br>
-            TELEFONO: 55 4899 7632<br>
+            TELEFONO: 56 1357 3080<br>
             EMAIL: Codynovors.AdeC.V@gmail.com
         </div>
     </div>

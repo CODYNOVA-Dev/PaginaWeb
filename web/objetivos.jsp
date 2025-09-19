@@ -22,7 +22,7 @@
         }
         
         .header {
-            background-color: #102f58;
+            background-color: #004499;
             color: white;
             padding: 20px;
             width: 100%;
@@ -39,14 +39,13 @@
         }
         
         .logo {
-            width: 80px;
-            height: 80px;
+            width: 150px;
+            height: 150px;
             margin-right: 20px;
             border-radius: 5px;
             object-fit: contain;
-            background-color: #102f58;
+            background-color: #004499;
             padding: 5px;
-            border: 2px solid #004499;
         }
         
         .header-text {
@@ -138,7 +137,7 @@
         }
         
         .footer {
-            background-color: #102f58;
+            background-color: #004499;
             color: white;
             text-align: center;
             padding: 30px 20px;
@@ -223,7 +222,7 @@
         <strong>CONTACTO</strong>
         <div class="contact-info">
             DIRECCIÓN: Mar Mediterráneo 227, 11420 Ciudad de México, Ciudad de México<br>
-            TELEFONO: 55 4899 7632<br>
+            TELEFONO: 56 1357 <br>
             EMAIL: CodynovaS.AdeC.V@gmail.com
         </div>
     </div>
